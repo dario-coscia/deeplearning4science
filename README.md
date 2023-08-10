@@ -12,3 +12,4 @@ This repository contains full examples for the [Medium](https://medium.com/@dari
 
 ## References
 1. Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations." Journal of Computational physics 378 (2019): 686–707.
+2. Coscia, Dario, Anna Ivagnes, Nicola Demo, and Gianluigi Rozza. "Physics-Informed Neural networks for Advanced modeling." Journal of Open Source Software 8, no. 87 (2023): 5352.
