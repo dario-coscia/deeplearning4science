@@ -3,7 +3,7 @@ This repository contains full examples for the [Medium](https://medium.com/@dari
 
 ## Content 
 * _How will deep learning be used to speed up physical simulations?_ [post](https://medium.com/sissa-mathlab/how-will-deep-learning-be-used-to-speed-up-physical-simulations-8634cda1022a)
-* _Blending Neural Networks with Physics: the Physics Informed Neural Network_ [post](), [code]()
+* _Blending Neural Networks with Physics: the Physics Informed Neural Network_ [post](), [code](./tutorials/pinns.ipynb)
 * _Neural Operators and Where to Find Them_ [post](), [code]()
 * _PINA, a Python Software for Scientific Machine Learning_ [post](), [code]()
 * _Autoregression is all you need: Autoregressive Neural Operators_ [post](), [code]()
